@@ -1,1 +1,1 @@
-test_check("TestPackage")
+testthat::test_check(package = "TestPackage")
