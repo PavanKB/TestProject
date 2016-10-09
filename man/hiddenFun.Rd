@@ -9,4 +9,7 @@ hiddenFun()
 \value{
 A statement
 }
+\description{
+Hidden function
+}
 

@@ -14,6 +14,9 @@ DivNum(x, y)
 \value{
 Division result
 }
+\description{
+Div num
+}
 \examples{
 DivNum(1, 2)
 }

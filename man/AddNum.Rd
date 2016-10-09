@@ -14,6 +14,9 @@ AddNum(x, y)
 \value{
 The sum of the numbers x and y
 }
+\description{
+Adds Num
+}
 \examples{
 AddNum(1, 2)
 }
