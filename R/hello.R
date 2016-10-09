@@ -1,6 +1,6 @@
 
 #' @title AddNum
-#'
+#' @description  Adds Num
 #' @param x First Num
 #' @param y Second Num
 #'
@@ -14,7 +14,7 @@ AddNum <- function(x, y) {
 }
 
 #' @title DivNum
-#'
+#' @description  Div Num
 #' @param x Numerator
 #' @param y Denominator
 #'
@@ -29,7 +29,7 @@ DivNum <- function(x, y){
 
 
 #' @title hiddenFun
-#'
+#' @description Hidden !
 #' @return A statement
 hiddenFun <- function(){
   print("You found me !")
