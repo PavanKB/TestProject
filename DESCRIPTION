@@ -4,8 +4,8 @@ Title: What the Package Does (Title Case)
 Version: 0.1.0
 Author: Who wrote it
 Maintainer: Who to complain to <yourfault@somewhere.net>
-Description: One scentence,  One scentence,  One scentence,  One scentence,  One scentence
-License: MIT + file LICENSE
+Description: One scentence,  One scentence,  One scentence,  One scentence,  One scentence.
+License: GPL-2
 LazyData: TRUE
-RoxygenNote: 5.0.1
-Depends: testthat(>= 1.0.2)
+RoxygenNote: 6.0.1
+Suggests: testthat(>= 1.0.2)
