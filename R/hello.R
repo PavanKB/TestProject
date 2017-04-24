@@ -1,5 +1,6 @@
 
 #' @title AddNum
+#' @author RickNMorty
 #' @description  Adds Num
 #' @param x First Num
 #' @param y Second Num
